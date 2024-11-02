@@ -1,8 +1,11 @@
-## Hi there 👋
-
 # About:
-Computer Science student at the University of Cincinnati, graduating in May, 2025.<br><br>Previous intern at:<br>- The Cincinnati Insurance Companies -> Software Developer Intern<br>- FOX Sports -> Software Engineer Co-op
+Computer Science student at the University of Cincinnati, graduating in May, 2025.
 
+### Previous intern at:
+| Company                            | Job Title                 | Dates                                             |
+| ---------------------------------- | ------------------------- | ------------------------------------------------- |
+| The Cincinnati Insurance Companies | Software Developer Intern | Aug 21 - Dec 21, May 22 - Aug 22, Jan 23 - Apr 23 |
+| FOX Sports                         | Software Engineer Co-op   | Aug 23 - Dec 23, May 24 - Oct 24                  |
 
 ## LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roberts-richard/) 
