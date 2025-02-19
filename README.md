@@ -1,3 +1,3 @@
-# Check out my web portfolio for more informtion of me as a developer
+# Check Out My Developer Portfolio
 
 https://portfolio-richard-roberts.vercel.app/
